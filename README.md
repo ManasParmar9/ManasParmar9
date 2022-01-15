@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning .Net.
 - 💞️ I’m looking to collaborate on .Net frameworkes
-- 📫 How to reach me twittwer.com/ManasParmar9
+- 📫 How to reach me twitter.com/ParmarManas9 .
 
 <!---
 ManasParmar9/ManasParmar9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
