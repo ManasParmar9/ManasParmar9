@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ManasParmar9
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning .Net.
-- 💞️ I’m looking to collaborate on .Net frameworkes
+- 💞️ I’m looking to collaborate on Web Development frameworkes
 - 📫 How to reach me twitter.com/ParmarManas9 .
 
 <!---
